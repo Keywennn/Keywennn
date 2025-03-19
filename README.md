@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with acceleration and optimization of nonlinear operators in Transformer Models
 
 I'm currently studying at Beijing Jiaotong University and always eager to learn more about AI and software development. Feel free to explore my repositories and connect with me!
-![Snake animation](https://raw.githubusercontent.com/Keywennn/Keywennn/output/dist/github-contribution-grid-snake.svg)
